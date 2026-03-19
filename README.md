@@ -20,9 +20,9 @@ $ fcp path/to/source path/to/destination
 
 ## Installing
 ### Downloading from releases
-- [Windows](https://github.com/M336G/fcp/releases/latest/download/fcp-windows.exe)
-- [macOS](https://github.com/M336G/fcp/releases/latest/download/fcp-macos)
-- [Linux](https://github.com/M336G/fcp/releases/latest/download/fcp-linux)
+- [Windows](https://github.com/M336G/fcp/releases/latest/download/fcp-windows.zip)
+- [macOS](https://github.com/M336G/fcp/releases/latest/download/fcp-macos.zip)
+- [Linux](https://github.com/M336G/fcp/releases/latest/download/fcp-linux.zip)
 
 To use `fcp` from anywhere, add it to your PATH:
 - **On Windows**: see [this guide](https://learn.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)#to-add-a-path-to-the-path-environment-variable)
