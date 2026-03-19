@@ -1,0 +1,12 @@
+[package]
+name = "fcp"
+description = "Superfast, multithreaded & cross-platform file copy utility"
+author = ["M336"]
+version = "1.0.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+rayon = "1.11.0"
+reflink = "0.1.3"
+walkdir = "2.5.0"
